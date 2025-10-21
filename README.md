@@ -1,8 +1,6 @@
 # CV HTML & CSS Template
 
-This is an **HTML & CSS CV template** created during a front-end marathon.  
-It is fully responsive and demonstrates layout, typography, and front-end skills.
-
+This is an **HTML & CSS CV template** created during a front-end marathon. 
 **Note:** This is a template and not a personal CV.
 
 ## Features
@@ -13,7 +11,7 @@ It is fully responsive and demonstrates layout, typography, and front-end skills
 ## Technologies Used
 - HTML5
 - CSS3
-- Optional: JavaScript for interactivity
+- Optional: You can add JavaScript for interactivity
 
 ## Usage
 You can clone this repository and customize it for your own CV:
